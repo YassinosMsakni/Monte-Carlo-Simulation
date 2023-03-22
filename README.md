@@ -1,1 +1,3 @@
 # Monte-Carlo-Simulation
+Monte Carlo simulation is a widely used method in finance to model and analyze the behavior of financial instruments such as stocks, bonds, options, and portfolios. The technique involves simulating the future values of these financial instruments based on their historical performance and other relevant factors, such as market trends, interest rates, and volatility.
+Monte Carlo simulation can be used to estimate the probability of different outcomes and to calculate the expected return and risk of a portfolio or investment strategy. It can also be used to evaluate the impact of different scenarios, such as changes in market conditions or investment decisions, on the performance of a portfolio.
